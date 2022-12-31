@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Convert Me</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="currency_to_be_converted">Currency to be converted</string>
+    <string name="from_currency">From Currency :</string>
+    <string name="to_currency">To Currency :</string>
+    <string name="convert">Convert</string>
+    <string name="result">result</string>
+    <string name="resultat">result</string>
+</resources>
